@@ -1,0 +1,39 @@
+on the format, caveat (only take what fits), do exercises with your real materials, that's more important than following my examples!
+
+based on book by professor, used in class for many years, book has 17 pages of references to scientific books and papers.
+
+motivation: successful people
+
+motivation: "I am a good decision taker."
+
+motivation: failure modes
+
+general principle I: the process and the method are the multi-solution for many problems and failure modes. Process and method will appear and reappear often. Some other techniques will help against some specific challenges. 
+
+general principle II: bring logic and intuition in agreement. make explicit what drives your intuition, rate the inputs of the rational process with your personal values and accept the outcome only if your intuition agrees. There is no heart-mind-dichotomy!
+
+activating the process and actually take decisions
+ + time boxes, deadlines
+ + lightweight processes
+ == find a small procrastinated decision and work on it right here:
+     - either do pros/cons and decide (and do the first implementation step right after this workshop)
+     - list concrete research actions (also decide which information you don't need) and commit when you want to do them
+     
+pro/con lists:
+ - it's not more complicated than what you already know
+ - some things you can do to make it better:
+   - visualize the alternative in detail to find more things to consider
+   - use info about one alternative to generate questions about the other alternative
+   - name the criteria to find more criteria and more questions to answer about the alternatives
+   - find out why you like or dislike certain alternatives
+   - weight / rate importance of criteria
+ - everything you do here, helps to make criteria and alternatives more explicit
+ 
+alternatives:
+ - if you do the process with passion, you will come up with many more alternatives than you started with
+ - alternatives will become more concrete and tangible. often you can take sub-decisions which simplify visualizations and make the main decision clearer and easier to take
+ - TODO: add material on alternative-generation from the book
+ 
+values:
+ TODO TODO TODO 
+ 

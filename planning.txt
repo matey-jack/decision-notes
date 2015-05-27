@@ -1,0 +1,92 @@
+this can fill up to ninety minutes. sixty would be ok, and fourty-five the bare minimum!
+
+deliverables:
+ - time plan (with 50% time for exercises, remaining 50% also contain some interactivity)
+ - slides for lecture part
+ - exercises with sample solutions
+
+todos:
+ - write invitation for (intense exclusive small-group) practice session on Friday, 5th June
+ - prepare first draft
+ - test the exercises
+ 
+ 
+modify slides from last time so there is less talking, less generic motivation, and more exercises and interactivity.
+
+todo for lecture content:
+ - comprehensive explanation of values vs criteria
+ - creating the mindset: I am a good decision maker! I put the right amount of effort into every decision to maximize my outcome of happiness, [whatever goals], and overall life balance. I realise that taking decisions costs mental energy (and postponing them even makes it more costly) and I use that energy wisely.
+ - mention automating decisions, find one or two succinct things to say about them
+ 
+Motivation:
+ - when I prepared to give a talk / workshop at our Berlin LW meetup 18 months ago, I asked a friend about the five most important things he has learned from the rationality/LW community, three of his five things had to do with decision making! so I grabbed an LW-recommended book on the topic and held the workshop. But what's more: I have adapted the technique to my life in decisions as big as buying a house and as small as what to have for dinner. Together with some other methods like meditation, focusing, gratefulness and optimism, this had a strong effect on my life!
+ 
+ - big brains are good for decisions, but not automatically so (see Kahnemann, Gilbert "stumbling")
+ - every millisecond, at least one person in the world is taking a decision in hopes of becoming more happy or reaching a specific goal and probably he or she could do better. sometimes much better.
+ - rationality is not just about numbers (money, time, material things, the measured self, ...), but it's also about finding the right balance between all the different aspects that play into a problem. in reality, we often have to compare apples and pears!
+ 
+signs of successful and happy people:
+ - have good relationships
+ - know their own strenghts and weaknesses realistically (and we'll talk about values later!)
+ - know what they want and are good at taking decisions
+==> good decisions contribute a lot to both your impact on the world and your personal happiness and fulfilment
+
+[warning slide]
+This non-numerical and very personal approach means that we sometimes have to use words that have more subjective than objective meaning. People are simply too different to make a workshop where every single item fits every single person in the room. If ever you come to a point where something doesn't make sense to you, seems to esoteric, or not worth it, don't worry! just skip that part or replace it with something that makes sense to you. Value everything that speaks to you and try to integrate it. Just ignore the rest.
+
+
+failure modes in decisions:
+ - not taking a decision (procrastinate deciding)
+ - taking a decision, but not implementing it (procrastinate action)
+ - you take a decision, implement it, and later regret it, that is, you come to believe that the decision was wrong – that is sad, but actually a great learning opportunity! (also, when judging your past decisions, focus on the process, not on the result – because many things you couldn't have know.)
+ 
+(regret is less of a problem than our fear of regret and our incertainty or doubts – by using good techniques we can tell ourselves "I did my best" and thereby beat the fear and doubts)
+
+=> get out of the "should I this or should I that" mode.
+replace with:
+ - by when will I decide?
+ - what are my criteria?
+ - how much time and effort will I put in this decision?
+ - can I do a time box right now? can I schedule a time box right now?
+ - what do I need (to research or prepare) for deciding?
+ - keep a todo list of the research work if it's more than one thing.
+ 
+
+first rule A: notice a decision and recall the method
+
+first rule B: always remember the high cost of not taking a decision! procrastination on decisions can drain your energy. either decide things or commit precisely when you want to decide them!
+
+second rule: there's a simple process even for the smallest of decisions
+(example: simply recall and verbalize what you want to achieve with the decision. what are the goals? what are the values?)
+
+third rule: the larger a decision is, the more we focus on the process
+(example: ask questions like "who else could I ask?", "how can I decompose the problem?", focus on subproblems instead of the whole thing, so that the back of your mind can come up with new insights instead of repeating
+
+three-A rule: WRITE THINGS DOWN. writing down existing thoughts creates brain-space for having new ones. conscious memory is very small: need to use paper and our inconscious brain.
+
+three-B: decorate your world
+
+fourth rule: settle your mind, by deciding on concrete next steps in your decisions process. this takes away mental tension and increases your capacity by a lot!
+
+fifth rule: techniques like meditation and focusing and self-empathy can help you find your inner needs and values (pre-vote: who has problems coming up with values and goals that seem intuitively, emotionally, and in all other ways "just right")
+
+quantification bias: price, PS, fuel consumption, nutritional value, ... numbers grab our attention because they are so easy to compare. how to fix: 1) try to quantify other things, too. for example, just rate attributes on your own subjective scale. 2) always include the non-quantified facts and criteria in writing so they stay salient when you take a decision.
+
+create interactivity with a mix of small audience engagements (finger-polls, write something down, shoutbacks, ...) and concrete exercises (finding criteria, goals and values; writing pro- and con-lists, finding repeated decisions)!
+
+possible engagement questions:
+ - write down three small decisions which you took {this morning, since lunch}
+ - write down one (or more) rather big decision which is coming up in your life in the next 6 to 18 months
+ - who has already use pro/cons lists? how has explicitly stated criteria for the decision? who has made a distinctions between the criteria and goals/values?
+ 
+there should be two really large exercises (or one really large and two mediums).
+
+large one: figuring out values and criteria. (for the big life decision)
+
+medium exercises: 
+ - quantification of criteria (can find different ways to quantify the same thing, can split criteria to quantify them better, can decide not to quantify specific things, ...)
+ - pro/cons list with a twist – but what twist? revisit a small decision or a daily habit or something that you have procrastinated on (a decision that you have taken, but not realized/implemented)
+ - find past decisions for each failure mode
+
+
+likely there won't be time for creativity techniques, but I'll at least mention when they can be used and explain the simple example technique.
