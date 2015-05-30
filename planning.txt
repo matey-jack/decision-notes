@@ -1,3 +1,4 @@
+
 this can fill up to ninety minutes. sixty would be ok, and fourty-five the bare minimum!
 
 deliverables:
@@ -6,7 +7,6 @@ deliverables:
  - exercises with sample solutions
 
 todos:
- - write invitation for (intense exclusive small-group) practice session on Friday, 5th June
  - prepare first draft
  - test the exercises
  
@@ -15,42 +15,17 @@ modify slides from last time so there is less talking, less generic motivation, 
 
 todo for lecture content:
  - comprehensive explanation of values vs criteria
- - creating the mindset: I am a good decision maker! I put the right amount of effort into every decision to maximize my outcome of happiness, [whatever goals], and overall life balance. I realise that taking decisions costs mental energy (and postponing them even makes it more costly) and I use that energy wisely.
- - mention automating decisions, find one or two succinct things to say about them
+ - bring everything into order
+ - mention automating decisions? find one or two succinct things to say about them
  
-Motivation:
+optional motivation:
  - when I prepared to give a talk / workshop at our Berlin LW meetup 18 months ago, I asked a friend about the five most important things he has learned from the rationality/LW community, three of his five things had to do with decision making! so I grabbed an LW-recommended book on the topic and held the workshop. But what's more: I have adapted the technique to my life in decisions as big as buying a house and as small as what to have for dinner. Together with some other methods like meditation, focusing, gratefulness and optimism, this had a strong effect on my life!
- 
- - big brains are good for decisions, but not automatically so (see Kahnemann, Gilbert "stumbling")
- - every millisecond, at least one person in the world is taking a decision in hopes of becoming more happy or reaching a specific goal and probably he or she could do better. sometimes much better.
- - rationality is not just about numbers (money, time, material things, the measured self, ...), but it's also about finding the right balance between all the different aspects that play into a problem. in reality, we often have to compare apples and pears!
- 
-signs of successful and happy people:
- - have good relationships
- - know their own strenghts and weaknesses realistically (and we'll talk about values later!)
- - know what they want and are good at taking decisions
-==> good decisions contribute a lot to both your impact on the world and your personal happiness and fulfilment
 
 [warning slide]
 This non-numerical and very personal approach means that we sometimes have to use words that have more subjective than objective meaning. People are simply too different to make a workshop where every single item fits every single person in the room. If ever you come to a point where something doesn't make sense to you, seems to esoteric, or not worth it, don't worry! just skip that part or replace it with something that makes sense to you. Value everything that speaks to you and try to integrate it. Just ignore the rest.
 
 
-failure modes in decisions:
- - not taking a decision (procrastinate deciding)
- - taking a decision, but not implementing it (procrastinate action)
- - you take a decision, implement it, and later regret it, that is, you come to believe that the decision was wrong – that is sad, but actually a great learning opportunity! (also, when judging your past decisions, focus on the process, not on the result – because many things you couldn't have know.)
- 
-(regret is less of a problem than our fear of regret and our incertainty or doubts – by using good techniques we can tell ourselves "I did my best" and thereby beat the fear and doubts)
-
-=> get out of the "should I this or should I that" mode.
-replace with:
- - by when will I decide?
- - what are my criteria?
- - how much time and effort will I put in this decision?
- - can I do a time box right now? can I schedule a time box right now?
- - what do I need (to research or prepare) for deciding?
- - keep a todo list of the research work if it's more than one thing.
- 
+rules to put in specific places in the lecture: 
 
 first rule A: notice a decision and recall the method
 
