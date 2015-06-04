@@ -15,8 +15,6 @@ modify slides from last time so there is less talking, less generic motivation, 
 
 todo for lecture content:
  - comprehensive explanation of values vs criteria
- - bring everything into order
- - mention automating decisions? find one or two succinct things to say about them
  
 optional motivation:
  - when I prepared to give a talk / workshop at our Berlin LW meetup 18 months ago, I asked a friend about the five most important things he has learned from the rationality/LW community, three of his five things had to do with decision making! so I grabbed an LW-recommended book on the topic and held the workshop. But what's more: I have adapted the technique to my life in decisions as big as buying a house and as small as what to have for dinner. Together with some other methods like meditation, focusing, gratefulness and optimism, this had a strong effect on my life!
@@ -52,7 +50,7 @@ create interactivity with a mix of small audience engagements (finger-polls, wri
 possible engagement questions:
  - write down three small decisions which you took {this morning, since lunch}
  - write down one (or more) rather big decision which is coming up in your life in the next 6 to 18 months
- - who has already use pro/cons lists? how has explicitly stated criteria for the decision? who has made a distinctions between the criteria and goals/values?
+ - who has already use pro/cons lists? who has explicitly stated criteria for the decision? who has made a distinctions between the criteria and goals/values?
  
 there should be two really large exercises (or one really large and two mediums).
 

@@ -12,14 +12,16 @@ signs of successful and happy people:
 motivational goal:  - creating the mindset: I am a good decision maker! I put the right amount of effort into every decision to maximize my outcome of happiness, [whatever goals], and overall life balance. I realize that taking decisions costs mental energy (and postponing them even makes it more costly) and I use that energy wisely.
 Who in this rooms thinks they are quite good at making decisions?
 Who thinks they are really good and significantly better than average?
-Who thinks they are so good at decision making
+Who thinks they are so good at decision making that they don't need this workshop?
+
+What part of decision making am I not good at? – if you ask that question, you'll think of the steps and get into executing the process...
 
 failure modes in decisions:
  - not taking a decision (procrastinate deciding)
  - taking a decision, but not implementing it (procrastinate action)
- - you take a decision, implement it, and later regret it, that is, you come to believe that the decision was wrong – that is sad, but actually a great learning opportunity! (also, when judging your past decisions, focus on the process, not on the result – because many things you couldn't have know.)
+ - you take a decision, implement it, and later regret it, that is, you come to believe that the decision was wrong – that is sad, but actually a great learning opportunity! (also, when judging your past decisions, focus on the process, not on the result – because many things you couldn't have known.)
  
-(regret is less of a problem than our fear of regret and our uncertainty or doubts – by using good techniques we can tell ourselves "I did my best" and thereby beat the fear and doubts)
+(regret is less of a problem than our fear of regret and our uncertainty or doubts – by using good techniques we can tell ourselves "I did my best" and thereby beat the fear and doubts) in short: procrastination and our own attitudes are a bigger problem than actual regret!
 
 
 process:
@@ -63,6 +65,14 @@ why values:
  - redundancy in the criteria helps to be really comprehensive, redundancy is not bad if we have enough structure to compensate for it
  - by making our values explicit we can prepare for future decisions without falling into a "always the same" trap. 
  
+criteria for the value set:
+ - completeness and relevance
+ - meaningfulness (right scale)
+ - testability
+ - independence
+  
+TODO: select material and examples and define exercise
+
 creativity: force-fit
 (maybe list some more for inspiration)
 
