@@ -1,13 +1,18 @@
 Motivation 1: 
- - big brains are good for decisions, but not automatically so (see Kahnemann, Gilbert "stumbling")
- - every millisecond, at least one person in the world is taking a decision in hopes of becoming more happy or reaching a specific goal and probably he or she could do better. sometimes much better.
- - rationality is not just about numbers (money, time, material things, the measured self, ...), but it's also about finding the right balance between all the different aspects that play into a problem. in reality, we often have to compare apples and pears!
  
 signs of successful and happy people:
  - have good relationships
  - know their own strengths and weaknesses realistically (and we'll talk about values later!)
  - know what they want and are good at taking decisions
 ==> good decisions contribute a lot to both your impact on the world and your personal happiness and fulfilment
+
+Motivation 2:
+ - big brains are good for decisions, but not automatically so (see Kahnemann, Gilbert "stumbling")
+ - every millisecond, at least one person in the world is taking a decision in hopes of becoming more happy or reaching a specific goal and probably he or she could do better. sometimes much better.
+ - rationality is not just about numbers (money, time, material things, the measured self, ...), but it's also about finding the right balance between all the different aspects that play into a problem. in reality, we often have to compare apples and pears!
+
+most problematic fallacy: brain not likes uncertainty. intuitive decision is taken too quickly and then dissenting facts are surpressed.
+"Selective perception" not a problem per se, very important for our survival and very useful when pursuing goals. But: in decisions it'll make us overlook important pieces of information. our monkey-brain likes clarity and tends to commit to early. We can give it that clarity by committing not to an outcome of the decision, but to a process. "dear monkey brain: by next monday we'll decide. until then, we're going to do this and that to gather more information and put it in proper perspective."
 
 motivational goal:  - creating the mindset: I am a good decision maker! I put the right amount of effort into every decision to maximize my outcome of happiness, [whatever goals], and overall life balance. I realize that taking decisions costs mental energy (and postponing them even makes it more costly) and I use that energy wisely.
 Who in this rooms thinks they are quite good at making decisions?
@@ -35,7 +40,9 @@ replace with:
  - what do I need (to research or prepare) for deciding?
  - keep a to-do list of the research work if it's more than one thing.
  
-
+more words on visualizations:
+ - ...
+ 
 typical small decision for me:
 coming home late at night: should I eat something or go straight to bed? if yes, what should I eat?
 hidden value (need) behind this is actually "relaxing": eating before sleeping relaxes me enough to fall asleep easily. once I know that, I can find other ways to relax.
@@ -64,6 +71,7 @@ why values:
  - make explicit what until now only our intuition knows. (sometimes even things that we do not want to admit. but it is usually better to put all the values and criteria on the table even if are unsure if something should influence our decision or not.)
  - redundancy in the criteria helps to be really comprehensive, redundancy is not bad if we have enough structure to compensate for it
  - by making our values explicit we can prepare for future decisions without falling into a "always the same" trap. 
+ - use our full brain power to find additional criteria by focusing on each value at the same time.
  
 criteria for the value set:
  - completeness and relevance
